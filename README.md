@@ -1,9 +1,9 @@
 # BMW
- ## 🚙 web-страница презентация авто BMW X6
- 
-Учебный проект 
+ ## 🚙  web-page presentation of car BMW
+training project
 
-### Выполнила: Я 
-
-### Применены языки:
- - JS
+## executed: by me
+## languages used:
+- JS
+- HTML
+- CSS
